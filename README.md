@@ -28,11 +28,11 @@ docker-compose down
 
 Once the services are running, the API can be accessed at:
 
-API Base URL: http://localhost:8080
-Swagger: http://localhost:8080/swagger
+- API Base URL: http://localhost:8080
+- Swagger: http://localhost:8080/swagger
 
 Example endpoints:
-- Inside Presentation layer there is the .http file to make requests
+- Inside the Presentation layer there is an `.http` file for making requests
 
 
 ## Design Decisions & Reasoning
