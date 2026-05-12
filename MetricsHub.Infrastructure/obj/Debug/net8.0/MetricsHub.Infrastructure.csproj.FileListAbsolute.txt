@@ -1,0 +1,15 @@
+C:\MetricsHub\MetricsHub.Infrastructure\bin\Debug\net8.0\MetricsHub.Infrastructure.deps.json
+C:\MetricsHub\MetricsHub.Infrastructure\bin\Debug\net8.0\MetricsHub.Infrastructure.dll
+C:\MetricsHub\MetricsHub.Infrastructure\bin\Debug\net8.0\MetricsHub.Infrastructure.pdb
+C:\MetricsHub\MetricsHub.Infrastructure\bin\Debug\net8.0\MetricsHub.Application.dll
+C:\MetricsHub\MetricsHub.Infrastructure\bin\Debug\net8.0\MetricsHub.Application.pdb
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsHub.Infrastructure.csproj.AssemblyReference.cache
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsHub.Infrastructure.AssemblyInfoInputs.cache
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsHub.Infrastructure.AssemblyInfo.cs
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsH.D7E6E878.Up2Date
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsHub.Infrastructure.dll
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\refint\MetricsHub.Infrastructure.dll
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\MetricsHub.Infrastructure.pdb
+C:\MetricsHub\MetricsHub.Infrastructure\obj\Debug\net8.0\ref\MetricsHub.Infrastructure.dll

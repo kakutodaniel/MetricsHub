@@ -1,0 +1,12 @@
+C:\MetricsHub\MetricsHub.Application\bin\Debug\net8.0\MetricsHub.Application.deps.json
+C:\MetricsHub\MetricsHub.Application\bin\Debug\net8.0\MetricsHub.Application.dll
+C:\MetricsHub\MetricsHub.Application\bin\Debug\net8.0\MetricsHub.Application.pdb
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\MetricsHub.Application.csproj.AssemblyReference.cache
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\MetricsHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\MetricsHub.Application.AssemblyInfoInputs.cache
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\MetricsHub.Application.AssemblyInfo.cs
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\MetricsHub.Application.csproj.CoreCompileInputs.cache
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\MetricsHub.Application.dll
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\refint\MetricsHub.Application.dll
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\MetricsHub.Application.pdb
+C:\MetricsHub\MetricsHub.Application\obj\Debug\net8.0\ref\MetricsHub.Application.dll

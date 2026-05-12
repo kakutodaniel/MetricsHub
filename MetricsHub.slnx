@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+    <File Path="Dockerfile" />
+  </Folder>
+  <Project Path="MetricsHub.Application/MetricsHub.Application.csproj" />
+  <Project Path="MetricsHub.Infrastructure/MetricsHub.Infrastructure.csproj" />
+  <Project Path="MetricsHub.Presentation/MetricsHub.Presentation.csproj" />
+  <Project Path="MetricsHub.UnitTests/MetricsHub.UnitTests.csproj" Id="8107ebd3-9546-4342-81c4-0ed59c6d48fe" />
+</Solution>
